@@ -1,3 +1,7 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+.venv/
+crew-env/
+__pycache__/
+*.pyc
